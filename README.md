@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the whole languages and having your job(s) done.
 - 🌱 I’m currently learning MySql and PHP
 - 💞️ I’m looking to collaborate with you on a new FrontEnd projects.
-- 📫 How to reach me mail ugochukwuozor90@gmail.com 
+- 📫 How to reach me via mail ugochukwuozor90@gmail.com 
 
 <!---
 ozorlastborn/ozorlastborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
